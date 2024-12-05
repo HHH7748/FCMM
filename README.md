@@ -50,3 +50,18 @@ ImageNet:
 [FCMM](https://drive.google.com/drive/folders/1NBIf2nhQUk3YtoND6EWfgVksj56zTWnh?usp=drive_link)
 
 [FCMM+JSD](https://drive.google.com/drive/folders/1lURevGgfIsYhimSrujDYbYEx82fvQFfK?usp=drive_link)
+
+### Citation
+ ```
+@ARTICLE{10776988,
+  author={Hwang, Hyunha and Kim, Se-Hun and Lee, Kyujoong and Lee, Hyuk-Jae},
+  journal={IEEE Access}, 
+  title={Improving Model Robustness with Frequency Component Modification and Mixing}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Robustness;Discrete Fourier transforms;Frequency-domain analysis;Perturbation methods;Training;High frequency;Data augmentation;Convolutional neural networks;Standards;Sensitivity;Robustness;Image augmentation;Discrete Fourier transforms;Convolutional neural networks;Image classification},
+  doi={10.1109/ACCESS.2024.3510923}}
+
+ ```
