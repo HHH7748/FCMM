@@ -1,6 +1,6 @@
 # Improving Model Robustness with Frequency Component Modification and Mixing (IEEE Access)
 
-This is the repository for "Enhancing Safety Measures via Frequency Component Modification and Mixing"  
+This is the repository for "[Improving Model Robustness with Frequency Component Modification and Mixing](https://doi.org/10.1109/ACCESS.2024.3510923)"  
 
 The proposed method has been implemented based on the official code of [PixMix](https://github.com/andyzoujm/pixmix/tree/main).
 
