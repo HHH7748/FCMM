@@ -61,7 +61,6 @@ ImageNet:
   volume={},
   number={},
   pages={1-1},
-  keywords={Robustness;Discrete Fourier transforms;Frequency-domain analysis;Perturbation methods;Training;High frequency;Data augmentation;Convolutional neural networks;Standards;Sensitivity;Robustness;Image augmentation;Discrete Fourier transforms;Convolutional neural networks;Image classification},
   doi={10.1109/ACCESS.2024.3510923}}
 
  ```
