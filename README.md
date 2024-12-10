@@ -58,9 +58,9 @@ ImageNet:
   journal={IEEE Access}, 
   title={Improving Model Robustness with Frequency Component Modification and Mixing}, 
   year={2024},
-  volume={},
+  volume={12},
   number={},
-  pages={1-1},
+  pages={182171-182189},
   doi={10.1109/ACCESS.2024.3510923}}
 
  ```
